@@ -2,6 +2,12 @@
 
 Packaged [StyleTTS 2](https://github.com/yl4579/StyleTTS2). Not intended for public use.
 
+## Install
+
+```
+pip install mfs-styletts2
+```
+
 ## License
 
 MIT
